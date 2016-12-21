@@ -1,9 +1,9 @@
 #!/usr/bin/python
 
+#rotate an image by 90 degrees
 """
 assume each image is a 2D matrix. When rotate by 90 degrees, convert columns in rows and rows in columns(transpose of matrix). When rotate 180 degrees, then 0*0 element becomes 3*3, 0*3 becomes 3*0 and so on
 """
-#rotate an image by 90 degrees
 # if we use numpy, transpose is easy, b=a.T
 # we want to do it in the old fashioned way
 
