@@ -1,2 +1,2 @@
 # misc_problems
-This repository contains different programming problem I've solved to prepare for interviews
+This repository contains different programming problems I've solved 
